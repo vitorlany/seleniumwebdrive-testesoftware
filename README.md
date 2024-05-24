@@ -20,5 +20,17 @@ Este repositório contém testes automatizados usando Selenium WebDriver para re
 
   ```bash
   cd code
-  npm install 
-  
+  npm install
+ ```
+ ##Caso queira criar o seu próprio projeto:
+
+ 1. **Instalar localmente**
+
+ ```bash
+   npm install selenium-webdriver
+```
+
+2. **Adicione ao package.json**
+  ```bash
+           "mocha": "10.4.0"
+```
